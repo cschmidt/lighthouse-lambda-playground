@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lighthouse-lambda": "^1.1.4"
+    "lighthouse-lambda": "^1.1.4",
+    "lighthouse-logger": "^1.0.1"
   }
 }
